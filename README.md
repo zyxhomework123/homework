@@ -36,10 +36,8 @@
 ## 我的专业是人工智能
 ##01 环境搭建的截图一
 <img src="https://github.com/user-attachments/assets/dc99f639-20e4-4a5b-ae5f-b6276dbcb2f8" alt="Logo" width="800" />
-![28437dea1ddbd48ef05fd92dcba4bc1](https://github.com/user-attachments/assets/dc99f639-20e4-4a5b-ae5f-b6276dbcb2f8)
 ##01 环境搭建的截图一
 <img src="https://github.com/user-attachments/assets/ce60e169-6ca2-4712-bcab-b34e0b562a01" alt="Logo" width="800" />
-![78a3b667e8a45a225b06c33455da020](https://github.com/user-attachments/assets/ce60e169-6ca2-4712-bcab-b34e0b562a01)
 
 ## 我最喜欢的一段代码
 ##我最喜欢的环境管理工具是 conda
