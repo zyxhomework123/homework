@@ -44,6 +44,8 @@ print(f"系统环境: {platform.system()}")
 print("虚拟环境已激活 → 开始训练AI模型！")
 我最喜欢的环境管理工具是 conda
 
+###
+![28437dea1ddbd48ef05fd92dcba4bc1](https://github.com/user-attachments/assets/e1a92dd2-066e-4dd0-91f6-792569d2e10c)
 
-<img src="./1.png" width="800" alt="环境搭建截图">
-<img src="./2.png" width="800" alt="IDE环境截图">
+![78a3b667e8a45a225b06c33455da020](https://github.com/user-attachments/assets/a696a2fc-994e-4cb9-b0f9-469b9301d044)
+###
